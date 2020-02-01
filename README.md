@@ -1,6 +1,6 @@
 # CakarKucingJS
 # version flat js
-[![𝗕𝗹𝗮𝗰𝗸❮𝗖𝗵𝗶𝗻𝗴](https://i.ibb.co/D8XyzpC/ezgif-com-gif-maker-5.gif)](http://line.me/ti/p/~cuma.akun.titipan)
+[![𝗕𝗹𝗮𝗰𝗸❮𝗖𝗵𝗶𝗻𝗴](https://i.ibb.co/D8XyzpC/ezgif-com-gif-maker-5.gif)](http://line.me/ti/p/~dandyhayate)
 
 # CHAT ME
 <a href="https://line.me/R/ti/p/~cuma.akun.titipan"><img height="36" border="0" alt="Add Friend" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
